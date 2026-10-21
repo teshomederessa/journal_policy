@@ -9,8 +9,6 @@ Robert Schulz<sup>1</sup>, Teshome K. Deressa<sup>2,3</sup>, Adrian Barnett<sup>
 <sup>5</sup> *SYNLAB MVZ Berlin GmbH, Berlin, Germany*
 
 ---
-### Study registration and dashboard
-
 - **Preregistration:** [Open the preregistration](https://osf.io/tcyxg/overview)
 - **Interactive dashboard:** [View the dashboard](https://excelscior-uc.github.io/journal-policy-dashboard/)
 ---
